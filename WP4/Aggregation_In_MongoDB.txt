@@ -1,0 +1,44 @@
+[
+  {
+    $lookup: {
+      from: "Assessment",
+      localField: "performance_id",
+      foreignField: "performance_id",
+      as: "b2_documents",
+    },
+  },
+  {
+    $unwind: "$b2_documents",
+  },
+  {
+    $project: {
+      _id: 0,
+      team_id1: "$team_id",
+      team_id2: "$b2_documents.team_id",
+      cmp_value: {
+        $cmp: [
+          "$team_id",
+          "$b2_documents.team_id",
+        ],
+      },
+    },
+  },
+  {
+    $match: {
+      cmp_value: {
+        $lt: 0,
+      },
+    },
+  },
+  {
+    $project: {
+      team_id1: "$team_id1",
+      team_id2: "$team_id2",
+    },
+  },
+  {
+    $sort: {
+      team_id1: 1,
+    },
+  },
+]

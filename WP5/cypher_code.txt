@@ -1,0 +1,32 @@
+LOAD CSV WITH HEADERS FROM 'file:///nodes.csv' AS row
+WITH row.id AS teamID, row.name AS name
+MERGE (r:Nodes {teamID: teamID})
+set r.name = name
+RETURN count(name)
+
+
+LOAD CSV WITH HEADERS FROM 'file:///edges.csv' AS row
+WITH row.team_id1 AS a, row.team_id2 AS b
+MATCH (lhsNode:Nodes {teamID: a})
+MATCH (rhsNode:Nodes {teamID: b})
+MERGE (lhsNode)-[edge:teamID]-(rhsNode)
+RETURN count(edge)
+
+
+CALL gds.graph.project(
+ 'TeamGraphProjection',
+ 'Nodes',
+ {
+ teamID: {
+ orientation: "UNDIRECTED"
+ }
+ }
+)
+
+
+CALL gds.degree.stream(
+ "TeamGraphProjection"
+) YIELD
+ nodeId, score
+RETURN gds.util.asNode(nodeId).name AS name, score AS degree
+ORDER BY degree DESC, name DESC

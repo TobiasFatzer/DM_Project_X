@@ -1,0 +1,4002 @@
+﻿[
+  {
+    "name": "Goldner and Sons",
+    "degree": 48.0
+  },
+  {
+    "name": "Borer LLC",
+    "degree": 40.0
+  },
+  {
+    "name": "Flatley, Conn and Powlowski",
+    "degree": 38.0
+  },
+  {
+    "name": "Pollich-Jaskolski",
+    "degree": 37.0
+  },
+  {
+    "name": "Hackett LLC",
+    "degree": 37.0
+  },
+  {
+    "name": "Oberbrunner, Pagac and Torp",
+    "degree": 36.0
+  },
+  {
+    "name": "Wintheiser, McLaughlin and Jacobi",
+    "degree": 35.0
+  },
+  {
+    "name": "Heathcote-Feeney",
+    "degree": 35.0
+  },
+  {
+    "name": "Daniel Inc",
+    "degree": 35.0
+  },
+  {
+    "name": "Walker Group",
+    "degree": 34.0
+  },
+  {
+    "name": "Becker Inc",
+    "degree": 34.0
+  },
+  {
+    "name": "O'Connell-Runolfsdottir",
+    "degree": 33.0
+  },
+  {
+    "name": "Muller, Heller and Luettgen",
+    "degree": 33.0
+  },
+  {
+    "name": "Kertzmann Inc",
+    "degree": 33.0
+  },
+  {
+    "name": "Koss-Dare",
+    "degree": 32.0
+  },
+  {
+    "name": "Purdy, Hettinger and Feest",
+    "degree": 31.0
+  },
+  {
+    "name": "Grimes-Oberbrunner",
+    "degree": 31.0
+  },
+  {
+    "name": "Upton Inc",
+    "degree": 30.0
+  },
+  {
+    "name": "Leannon-Bergstrom",
+    "degree": 30.0
+  },
+  {
+    "name": "Hyatt, Conroy and Monahan",
+    "degree": 30.0
+  },
+  {
+    "name": "Dibbert LLC",
+    "degree": 30.0
+  },
+  {
+    "name": "Bogisich Inc",
+    "degree": 30.0
+  },
+  {
+    "name": "Stoltenberg and Sons",
+    "degree": 29.0
+  },
+  {
+    "name": "Sporer Group",
+    "degree": 29.0
+  },
+  {
+    "name": "Lowe and Sons",
+    "degree": 29.0
+  },
+  {
+    "name": "Zemlak-Klein",
+    "degree": 28.0
+  },
+  {
+    "name": "Roberts-Murphy",
+    "degree": 28.0
+  },
+  {
+    "name": "Parisian, McDermott and Ruecker",
+    "degree": 28.0
+  },
+  {
+    "name": "Keebler-Mills",
+    "degree": 28.0
+  },
+  {
+    "name": "Ebert-Rice",
+    "degree": 28.0
+  },
+  {
+    "name": "Bergstrom, Kub and Schaefer",
+    "degree": 28.0
+  },
+  {
+    "name": "Becker LLC",
+    "degree": 28.0
+  },
+  {
+    "name": "Quitzon-Legros",
+    "degree": 27.0
+  },
+  {
+    "name": "Monahan Group",
+    "degree": 27.0
+  },
+  {
+    "name": "MacGyver-Jacobson",
+    "degree": 27.0
+  },
+  {
+    "name": "Bogan-Lynch",
+    "degree": 27.0
+  },
+  {
+    "name": "Vandervort-Skiles",
+    "degree": 26.0
+  },
+  {
+    "name": "Schuppe, Predovic and Jerde",
+    "degree": 26.0
+  },
+  {
+    "name": "Powlowski, Russel and Gutkowski",
+    "degree": 26.0
+  },
+  {
+    "name": "Deckow-Kertzmann",
+    "degree": 26.0
+  },
+  {
+    "name": "Walker, Gerhold and Hills",
+    "degree": 25.0
+  },
+  {
+    "name": "Strosin LLC",
+    "degree": 25.0
+  },
+  {
+    "name": "Stracke, Schulist and Yundt",
+    "degree": 25.0
+  },
+  {
+    "name": "Sanford and Sons",
+    "degree": 25.0
+  },
+  {
+    "name": "Pfeffer, Hegmann and Turcotte",
+    "degree": 25.0
+  },
+  {
+    "name": "Dickinson Group",
+    "degree": 25.0
+  },
+  {
+    "name": "Welch-Bauch",
+    "degree": 24.0
+  },
+  {
+    "name": "Jast, Barrows and Cole",
+    "degree": 24.0
+  },
+  {
+    "name": "Bogan Inc",
+    "degree": 24.0
+  },
+  {
+    "name": "Bernier-Klocko",
+    "degree": 24.0
+  },
+  {
+    "name": "Batz Group",
+    "degree": 24.0
+  },
+  {
+    "name": "Bartoletti-Hermiston",
+    "degree": 24.0
+  },
+  {
+    "name": "Ward, Paucek and Bogisich",
+    "degree": 23.0
+  },
+  {
+    "name": "Hyatt, Mayer and Hagenes",
+    "degree": 23.0
+  },
+  {
+    "name": "Harber-Labadie",
+    "degree": 23.0
+  },
+  {
+    "name": "Haag Inc",
+    "degree": 23.0
+  },
+  {
+    "name": "Gleichner LLC",
+    "degree": 23.0
+  },
+  {
+    "name": "Douglas, Mosciski and Berge",
+    "degree": 23.0
+  },
+  {
+    "name": "Kunze-Mann",
+    "degree": 22.0
+  },
+  {
+    "name": "Jerde LLC",
+    "degree": 22.0
+  },
+  {
+    "name": "Haley and Sons",
+    "degree": 22.0
+  },
+  {
+    "name": "Treutel and Sons",
+    "degree": 21.0
+  },
+  {
+    "name": "Torp, Treutel and Bradtke",
+    "degree": 21.0
+  },
+  {
+    "name": "Sipes-Bergstrom",
+    "degree": 21.0
+  },
+  {
+    "name": "Russel LLC",
+    "degree": 21.0
+  },
+  {
+    "name": "Rempel-Parisian",
+    "degree": 21.0
+  },
+  {
+    "name": "Hessel Inc",
+    "degree": 21.0
+  },
+  {
+    "name": "Franecki, Beahan and Corwin",
+    "degree": 21.0
+  },
+  {
+    "name": "Douglas-Casper",
+    "degree": 21.0
+  },
+  {
+    "name": "Ward, Walsh and Herman",
+    "degree": 20.0
+  },
+  {
+    "name": "Veum-Strosin",
+    "degree": 20.0
+  },
+  {
+    "name": "Russel, Mante and Morar",
+    "degree": 20.0
+  },
+  {
+    "name": "Runolfsdottir, Littel and Jerde",
+    "degree": 20.0
+  },
+  {
+    "name": "Lindgren Group",
+    "degree": 20.0
+  },
+  {
+    "name": "Hand, Kulas and Langworth",
+    "degree": 20.0
+  },
+  {
+    "name": "Flatley, O'Kon and Stokes",
+    "degree": 20.0
+  },
+  {
+    "name": "Donnelly Group",
+    "degree": 20.0
+  },
+  {
+    "name": "Zemlak Inc",
+    "degree": 19.0
+  },
+  {
+    "name": "Wilderman-Bergnaum",
+    "degree": 19.0
+  },
+  {
+    "name": "Stamm-Prosacco",
+    "degree": 19.0
+  },
+  {
+    "name": "Nolan and Sons",
+    "degree": 19.0
+  },
+  {
+    "name": "Zemlak LLC",
+    "degree": 18.0
+  },
+  {
+    "name": "Weimann-Lebsack",
+    "degree": 18.0
+  },
+  {
+    "name": "VonRueden-Schulist",
+    "degree": 18.0
+  },
+  {
+    "name": "Swaniawski, Rice and Schimmel",
+    "degree": 18.0
+  },
+  {
+    "name": "O'Reilly-Walsh",
+    "degree": 18.0
+  },
+  {
+    "name": "Little and Sons",
+    "degree": 18.0
+  },
+  {
+    "name": "King-Hilpert",
+    "degree": 18.0
+  },
+  {
+    "name": "Graham LLC",
+    "degree": 18.0
+  },
+  {
+    "name": "Gleason, O'Conner and Hammes",
+    "degree": 18.0
+  },
+  {
+    "name": "Turcotte-Baumbach",
+    "degree": 17.0
+  },
+  {
+    "name": "Lang and Sons",
+    "degree": 17.0
+  },
+  {
+    "name": "Hayes and Sons",
+    "degree": 17.0
+  },
+  {
+    "name": "Franecki-Schuppe",
+    "degree": 17.0
+  },
+  {
+    "name": "Flatley Inc",
+    "degree": 17.0
+  },
+  {
+    "name": "Corwin Group",
+    "degree": 17.0
+  },
+  {
+    "name": "Bosco-Schmidt",
+    "degree": 17.0
+  },
+  {
+    "name": "Schamberger-Beahan",
+    "degree": 16.0
+  },
+  {
+    "name": "Runte, Moen and Lakin",
+    "degree": 16.0
+  },
+  {
+    "name": "Parisian, Abernathy and Hauck",
+    "degree": 16.0
+  },
+  {
+    "name": "Mante-Gerhold",
+    "degree": 16.0
+  },
+  {
+    "name": "Donnelly Inc",
+    "degree": 16.0
+  },
+  {
+    "name": "Beer, VonRueden and O'Connell",
+    "degree": 16.0
+  },
+  {
+    "name": "White-Lesch",
+    "degree": 15.0
+  },
+  {
+    "name": "Weissnat Inc",
+    "degree": 15.0
+  },
+  {
+    "name": "Spencer, Von and Cole",
+    "degree": 15.0
+  },
+  {
+    "name": "Prohaska-Nicolas",
+    "degree": 15.0
+  },
+  {
+    "name": "Lueilwitz, Erdman and Metz",
+    "degree": 15.0
+  },
+  {
+    "name": "Grant, Gusikowski and McClure",
+    "degree": 15.0
+  },
+  {
+    "name": "Dibbert, Bahringer and Lowe",
+    "degree": 15.0
+  },
+  {
+    "name": "Beier, Mueller and Weissnat",
+    "degree": 15.0
+  },
+  {
+    "name": "Bashirian-Bartoletti",
+    "degree": 15.0
+  },
+  {
+    "name": "Wuckert-Johns",
+    "degree": 14.0
+  },
+  {
+    "name": "Ullrich, Doyle and Wisozk",
+    "degree": 14.0
+  },
+  {
+    "name": "Schultz Group",
+    "degree": 14.0
+  },
+  {
+    "name": "O'Hara-Rohan",
+    "degree": 14.0
+  },
+  {
+    "name": "Nikolaus-Sauer",
+    "degree": 14.0
+  },
+  {
+    "name": "Lowe-Gleichner",
+    "degree": 14.0
+  },
+  {
+    "name": "Jacobson, Schulist and Mraz",
+    "degree": 14.0
+  },
+  {
+    "name": "Harris, Wolff and Howell",
+    "degree": 14.0
+  },
+  {
+    "name": "Bednar-Blanda",
+    "degree": 14.0
+  },
+  {
+    "name": "Watsica, Pacocha and Green",
+    "degree": 13.0
+  },
+  {
+    "name": "Sipes and Sons",
+    "degree": 13.0
+  },
+  {
+    "name": "Schaefer-Kunze",
+    "degree": 13.0
+  },
+  {
+    "name": "Deckow-Carter",
+    "degree": 13.0
+  },
+  {
+    "name": "Jacobs-Hane",
+    "degree": 12.0
+  },
+  {
+    "name": "Fritsch Group",
+    "degree": 12.0
+  },
+  {
+    "name": "Champlin, Cole and Koelpin",
+    "degree": 12.0
+  },
+  {
+    "name": "Schmidt-Kub",
+    "degree": 11.0
+  },
+  {
+    "name": "Ruecker, Stokes and Konopelski",
+    "degree": 10.0
+  },
+  {
+    "name": "Paucek and Sons",
+    "degree": 10.0
+  },
+  {
+    "name": "Kautzer Inc",
+    "degree": 10.0
+  },
+  {
+    "name": "Gibson-Stanton",
+    "degree": 10.0
+  },
+  {
+    "name": "Corwin-Satterfield",
+    "degree": 10.0
+  },
+  {
+    "name": "Batz, McDermott and Weissnat",
+    "degree": 10.0
+  },
+  {
+    "name": "Zemlak and Sons",
+    "degree": 8.0
+  },
+  {
+    "name": "Hodkiewicz, Cronin and Bins",
+    "degree": 8.0
+  },
+  {
+    "name": "Bergstrom, Harvey and Cartwright",
+    "degree": 8.0
+  },
+  {
+    "name": "Tromp-Prohaska",
+    "degree": 7.0
+  },
+  {
+    "name": "Walter-Kunde",
+    "degree": 6.0
+  },
+  {
+    "name": "Reichel",
+    "degree": 6.0
+  },
+  {
+    "name": "Nader Group",
+    "degree": 6.0
+  },
+  {
+    "name": "Keebler-Wilderman",
+    "degree": 6.0
+  },
+  {
+    "name": "Dare Group",
+    "degree": 6.0
+  },
+  {
+    "name": "Ryan and Sons",
+    "degree": 5.0
+  },
+  {
+    "name": "Larkin, Mueller and Brekke",
+    "degree": 5.0
+  },
+  {
+    "name": "Hegmann, Okuneva and Schmidt",
+    "degree": 5.0
+  },
+  {
+    "name": "Bayer, Waelchi and Kozey",
+    "degree": 5.0
+  },
+  {
+    "name": "Sauer LLC",
+    "degree": 4.0
+  },
+  {
+    "name": "Lynch LLC",
+    "degree": 4.0
+  },
+  {
+    "name": "Hodkiewicz-Spinka",
+    "degree": 4.0
+  },
+  {
+    "name": "Heaney",
+    "degree": 4.0
+  },
+  {
+    "name": "Davis-Schultz",
+    "degree": 4.0
+  },
+  {
+    "name": "Bode-Kessler",
+    "degree": 4.0
+  },
+  {
+    "name": "Bartell LLC",
+    "degree": 4.0
+  },
+  {
+    "name": "Wiegand",
+    "degree": 3.0
+  },
+  {
+    "name": "Sanford",
+    "degree": 3.0
+  },
+  {
+    "name": "Reilly-Hoppe",
+    "degree": 3.0
+  },
+  {
+    "name": "Rau Group",
+    "degree": 3.0
+  },
+  {
+    "name": "Rath and Sons",
+    "degree": 3.0
+  },
+  {
+    "name": "Ortiz-Marks",
+    "degree": 3.0
+  },
+  {
+    "name": "Olson-Hermiston",
+    "degree": 3.0
+  },
+  {
+    "name": "Moore-Wintheiser",
+    "degree": 3.0
+  },
+  {
+    "name": "Marvin and Sons",
+    "degree": 3.0
+  },
+  {
+    "name": "Leffler",
+    "degree": 3.0
+  },
+  {
+    "name": "Langosh-Haley",
+    "degree": 3.0
+  },
+  {
+    "name": "Kuphal Group",
+    "degree": 3.0
+  },
+  {
+    "name": "Johnston-Tremblay",
+    "degree": 3.0
+  },
+  {
+    "name": "Gerlach",
+    "degree": 3.0
+  },
+  {
+    "name": "Bednar-Goyette",
+    "degree": 3.0
+  },
+  {
+    "name": "Ankunding",
+    "degree": 3.0
+  },
+  {
+    "name": "Abbott Inc",
+    "degree": 3.0
+  },
+  {
+    "name": "Yost Inc",
+    "degree": 2.0
+  },
+  {
+    "name": "Willms",
+    "degree": 2.0
+  },
+  {
+    "name": "Wilderman",
+    "degree": 2.0
+  },
+  {
+    "name": "White",
+    "degree": 2.0
+  },
+  {
+    "name": "Welch and Sons",
+    "degree": 2.0
+  },
+  {
+    "name": "Watsica LLC",
+    "degree": 2.0
+  },
+  {
+    "name": "Tromp",
+    "degree": 2.0
+  },
+  {
+    "name": "Torphy-Nitzsche",
+    "degree": 2.0
+  },
+  {
+    "name": "Thompson",
+    "degree": 2.0
+  },
+  {
+    "name": "Simonis Inc",
+    "degree": 2.0
+  },
+  {
+    "name": "Senger-Abbott",
+    "degree": 2.0
+  },
+  {
+    "name": "Schamberger",
+    "degree": 2.0
+  },
+  {
+    "name": "Schaden-Maggio",
+    "degree": 2.0
+  },
+  {
+    "name": "Rowe LLC",
+    "degree": 2.0
+  },
+  {
+    "name": "Robel",
+    "degree": 2.0
+  },
+  {
+    "name": "Reynolds",
+    "degree": 2.0
+  },
+  {
+    "name": "Reinger-Boehm",
+    "degree": 2.0
+  },
+  {
+    "name": "Rau Inc",
+    "degree": 2.0
+  },
+  {
+    "name": "Quitzon",
+    "degree": 2.0
+  },
+  {
+    "name": "Price-Romaguera",
+    "degree": 2.0
+  },
+  {
+    "name": "Powlowski-Rath",
+    "degree": 2.0
+  },
+  {
+    "name": "Powlowski",
+    "degree": 2.0
+  },
+  {
+    "name": "Pagac-O'Reilly",
+    "degree": 2.0
+  },
+  {
+    "name": "Orn",
+    "degree": 2.0
+  },
+  {
+    "name": "Okuneva-Lindgren",
+    "degree": 2.0
+  },
+  {
+    "name": "Mueller-Pacocha",
+    "degree": 2.0
+  },
+  {
+    "name": "Mertz-Jaskolski",
+    "degree": 2.0
+  },
+  {
+    "name": "McDermott Group",
+    "degree": 2.0
+  },
+  {
+    "name": "Lowe Inc",
+    "degree": 2.0
+  },
+  {
+    "name": "Lockman-Marquardt",
+    "degree": 2.0
+  },
+  {
+    "name": "Langosh-Roberts",
+    "degree": 2.0
+  },
+  {
+    "name": "Kreiger, Franecki and Hickle",
+    "degree": 2.0
+  },
+  {
+    "name": "Koss Group",
+    "degree": 2.0
+  },
+  {
+    "name": "Klocko",
+    "degree": 2.0
+  },
+  {
+    "name": "Klein Inc",
+    "degree": 2.0
+  },
+  {
+    "name": "Kihn",
+    "degree": 2.0
+  },
+  {
+    "name": "Johnson Group",
+    "degree": 2.0
+  },
+  {
+    "name": "Jacobs-Wolff",
+    "degree": 2.0
+  },
+  {
+    "name": "Hauck",
+    "degree": 2.0
+  },
+  {
+    "name": "Harris",
+    "degree": 2.0
+  },
+  {
+    "name": "Haag-Friesen",
+    "degree": 2.0
+  },
+  {
+    "name": "Gulgowski",
+    "degree": 2.0
+  },
+  {
+    "name": "Grimes-Batz",
+    "degree": 2.0
+  },
+  {
+    "name": "Glover-Koch",
+    "degree": 2.0
+  },
+  {
+    "name": "Friesen-Metz",
+    "degree": 2.0
+  },
+  {
+    "name": "Franecki Inc",
+    "degree": 2.0
+  },
+  {
+    "name": "Feil",
+    "degree": 2.0
+  },
+  {
+    "name": "Emard LLC",
+    "degree": 2.0
+  },
+  {
+    "name": "Donnelly-Collins",
+    "degree": 2.0
+  },
+  {
+    "name": "Donnelly",
+    "degree": 2.0
+  },
+  {
+    "name": "Conroy-Mueller",
+    "degree": 2.0
+  },
+  {
+    "name": "Conn",
+    "degree": 2.0
+  },
+  {
+    "name": "Christiansen-Toy",
+    "degree": 2.0
+  },
+  {
+    "name": "Bogan-Ebert",
+    "degree": 2.0
+  },
+  {
+    "name": "Blick",
+    "degree": 2.0
+  },
+  {
+    "name": "Blanda and Sons",
+    "degree": 2.0
+  },
+  {
+    "name": "Beier",
+    "degree": 2.0
+  },
+  {
+    "name": "Bednar",
+    "degree": 2.0
+  },
+  {
+    "name": "Batz-Kuhlman",
+    "degree": 2.0
+  },
+  {
+    "name": "Zulauf-Robel",
+    "degree": 1.0
+  },
+  {
+    "name": "Wuckert LLC",
+    "degree": 1.0
+  },
+  {
+    "name": "Wisoky Group",
+    "degree": 1.0
+  },
+  {
+    "name": "Willms-Cummerata",
+    "degree": 1.0
+  },
+  {
+    "name": "Wilderman",
+    "degree": 1.0
+  },
+  {
+    "name": "Welch-King",
+    "degree": 1.0
+  },
+  {
+    "name": "Weimann",
+    "degree": 1.0
+  },
+  {
+    "name": "Watsica-Kihn",
+    "degree": 1.0
+  },
+  {
+    "name": "Walter Group",
+    "degree": 1.0
+  },
+  {
+    "name": "Walsh",
+    "degree": 1.0
+  },
+  {
+    "name": "VonRueden-Rohan",
+    "degree": 1.0
+  },
+  {
+    "name": "Upton",
+    "degree": 1.0
+  },
+  {
+    "name": "Turner LLC",
+    "degree": 1.0
+  },
+  {
+    "name": "Tromp-Will",
+    "degree": 1.0
+  },
+  {
+    "name": "Thiel",
+    "degree": 1.0
+  },
+  {
+    "name": "Strosin",
+    "degree": 1.0
+  },
+  {
+    "name": "Stracke-Ferry",
+    "degree": 1.0
+  },
+  {
+    "name": "Stokes-Hodkiewicz",
+    "degree": 1.0
+  },
+  {
+    "name": "Stanton and Sons",
+    "degree": 1.0
+  },
+  {
+    "name": "Sporer-Marvin",
+    "degree": 1.0
+  },
+  {
+    "name": "Sporer",
+    "degree": 1.0
+  },
+  {
+    "name": "Smitham Group",
+    "degree": 1.0
+  },
+  {
+    "name": "Skiles LLC",
+    "degree": 1.0
+  },
+  {
+    "name": "Sipes-Senger",
+    "degree": 1.0
+  },
+  {
+    "name": "Sipes LLC",
+    "degree": 1.0
+  },
+  {
+    "name": "Senger",
+    "degree": 1.0
+  },
+  {
+    "name": "Schuster-Leffler",
+    "degree": 1.0
+  },
+  {
+    "name": "Schumm-DuBuque",
+    "degree": 1.0
+  },
+  {
+    "name": "Schulist-Sauer",
+    "degree": 1.0
+  },
+  {
+    "name": "Schaefer Group",
+    "degree": 1.0
+  },
+  {
+    "name": "Sawayn-Heaney",
+    "degree": 1.0
+  },
+  {
+    "name": "Reynolds-Skiles",
+    "degree": 1.0
+  },
+  {
+    "name": "Pouros-Grimes",
+    "degree": 1.0
+  },
+  {
+    "name": "Pollich Group",
+    "degree": 1.0
+  },
+  {
+    "name": "Pollich",
+    "degree": 1.0
+  },
+  {
+    "name": "Pfannerstill-Kerluke",
+    "degree": 1.0
+  },
+  {
+    "name": "Paucek-Koepp",
+    "degree": 1.0
+  },
+  {
+    "name": "Parisian",
+    "degree": 1.0
+  },
+  {
+    "name": "Pagac",
+    "degree": 1.0
+  },
+  {
+    "name": "Padberg",
+    "degree": 1.0
+  },
+  {
+    "name": "Pacocha Group",
+    "degree": 1.0
+  },
+  {
+    "name": "Okuneva Inc",
+    "degree": 1.0
+  },
+  {
+    "name": "O'Conner-Hickle",
+    "degree": 1.0
+  },
+  {
+    "name": "Murray and Sons",
+    "degree": 1.0
+  },
+  {
+    "name": "Murphy",
+    "degree": 1.0
+  },
+  {
+    "name": "Mraz-McCullough",
+    "degree": 1.0
+  },
+  {
+    "name": "Moore-Vandervort",
+    "degree": 1.0
+  },
+  {
+    "name": "Monahan and Sons",
+    "degree": 1.0
+  },
+  {
+    "name": "Moen-Wyman",
+    "degree": 1.0
+  },
+  {
+    "name": "Mitchell-Bruen",
+    "degree": 1.0
+  },
+  {
+    "name": "Mitchell",
+    "degree": 1.0
+  },
+  {
+    "name": "McCullough",
+    "degree": 1.0
+  },
+  {
+    "name": "Mann-Mueller",
+    "degree": 1.0
+  },
+  {
+    "name": "Maggio",
+    "degree": 1.0
+  },
+  {
+    "name": "Lockman Group",
+    "degree": 1.0
+  },
+  {
+    "name": "Littel",
+    "degree": 1.0
+  },
+  {
+    "name": "Lindgren LLC",
+    "degree": 1.0
+  },
+  {
+    "name": "Ledner Inc",
+    "degree": 1.0
+  },
+  {
+    "name": "Lebsack",
+    "degree": 1.0
+  },
+  {
+    "name": "Langworth",
+    "degree": 1.0
+  },
+  {
+    "name": "Kub-McLaughlin",
+    "degree": 1.0
+  },
+  {
+    "name": "Kris-Ondricka",
+    "degree": 1.0
+  },
+  {
+    "name": "Kozey and Sons",
+    "degree": 1.0
+  },
+  {
+    "name": "Konopelski-Littel",
+    "degree": 1.0
+  },
+  {
+    "name": "Koelpin",
+    "degree": 1.0
+  },
+  {
+    "name": "Koch LLC",
+    "degree": 1.0
+  },
+  {
+    "name": "Klocko and Sons",
+    "degree": 1.0
+  },
+  {
+    "name": "Jerde LLC",
+    "degree": 1.0
+  },
+  {
+    "name": "Jaskolski",
+    "degree": 1.0
+  },
+  {
+    "name": "Jacobson-Moore",
+    "degree": 1.0
+  },
+  {
+    "name": "Homenick",
+    "degree": 1.0
+  },
+  {
+    "name": "Herzog",
+    "degree": 1.0
+  },
+  {
+    "name": "Herzog",
+    "degree": 1.0
+  },
+  {
+    "name": "Hermiston",
+    "degree": 1.0
+  },
+  {
+    "name": "Herman",
+    "degree": 1.0
+  },
+  {
+    "name": "Hegmann-Medhurst",
+    "degree": 1.0
+  },
+  {
+    "name": "Heathcote-Becker",
+    "degree": 1.0
+  },
+  {
+    "name": "Hartmann LLC",
+    "degree": 1.0
+  },
+  {
+    "name": "Hartmann Inc",
+    "degree": 1.0
+  },
+  {
+    "name": "Hartmann Inc",
+    "degree": 1.0
+  },
+  {
+    "name": "Hamill-Ortiz",
+    "degree": 1.0
+  },
+  {
+    "name": "Grimes Inc",
+    "degree": 1.0
+  },
+  {
+    "name": "Greenholt-McGlynn",
+    "degree": 1.0
+  },
+  {
+    "name": "Graham-Pouros",
+    "degree": 1.0
+  },
+  {
+    "name": "Fritsch",
+    "degree": 1.0
+  },
+  {
+    "name": "Franecki Inc",
+    "degree": 1.0
+  },
+  {
+    "name": "Franecki",
+    "degree": 1.0
+  },
+  {
+    "name": "Fadel and Sons",
+    "degree": 1.0
+  },
+  {
+    "name": "Fadel",
+    "degree": 1.0
+  },
+  {
+    "name": "Ernser-Trantow",
+    "degree": 1.0
+  },
+  {
+    "name": "Erdman",
+    "degree": 1.0
+  },
+  {
+    "name": "Dicki",
+    "degree": 1.0
+  },
+  {
+    "name": "Dicki",
+    "degree": 1.0
+  },
+  {
+    "name": "Davis",
+    "degree": 1.0
+  },
+  {
+    "name": "D'Amore-Glover",
+    "degree": 1.0
+  },
+  {
+    "name": "Cruickshank LLC",
+    "degree": 1.0
+  },
+  {
+    "name": "Cremin",
+    "degree": 1.0
+  },
+  {
+    "name": "Corwin and Sons",
+    "degree": 1.0
+  },
+  {
+    "name": "Corwin Group",
+    "degree": 1.0
+  },
+  {
+    "name": "Collier-Wiza",
+    "degree": 1.0
+  },
+  {
+    "name": "Champlin",
+    "degree": 1.0
+  },
+  {
+    "name": "Bruen-Howell",
+    "degree": 1.0
+  },
+  {
+    "name": "Berge-Waters",
+    "degree": 1.0
+  },
+  {
+    "name": "Bashirian Inc",
+    "degree": 1.0
+  },
+  {
+    "name": "Barton and Sons",
+    "degree": 1.0
+  },
+  {
+    "name": "Balistreri-Predovic",
+    "degree": 1.0
+  },
+  {
+    "name": "Aufderhar",
+    "degree": 1.0
+  },
+  {
+    "name": "Auer",
+    "degree": 1.0
+  },
+  {
+    "name": "Auer",
+    "degree": 1.0
+  },
+  {
+    "name": "Ankunding",
+    "degree": 1.0
+  },
+  {
+    "name": "Ziemann-West",
+    "degree": 0.0
+  },
+  {
+    "name": "Ziemann-Kohler",
+    "degree": 0.0
+  },
+  {
+    "name": "Ziemann",
+    "degree": 0.0
+  },
+  {
+    "name": "Zemlak-Ruecker",
+    "degree": 0.0
+  },
+  {
+    "name": "Zboncak Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Zboncak",
+    "degree": 0.0
+  },
+  {
+    "name": "Yundt-White",
+    "degree": 0.0
+  },
+  {
+    "name": "Yost-O'Conner",
+    "degree": 0.0
+  },
+  {
+    "name": "Yost-Hamill",
+    "degree": 0.0
+  },
+  {
+    "name": "Yost-Bogan",
+    "degree": 0.0
+  },
+  {
+    "name": "Wyman-Huels",
+    "degree": 0.0
+  },
+  {
+    "name": "Wunsch-Purdy",
+    "degree": 0.0
+  },
+  {
+    "name": "Wunsch",
+    "degree": 0.0
+  },
+  {
+    "name": "Wuckert-Ritchie",
+    "degree": 0.0
+  },
+  {
+    "name": "Wolff-Monahan",
+    "degree": 0.0
+  },
+  {
+    "name": "Wolff-Gutmann",
+    "degree": 0.0
+  },
+  {
+    "name": "Wolff Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Wolf and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Wiza",
+    "degree": 0.0
+  },
+  {
+    "name": "Wisozk-Jenkins",
+    "degree": 0.0
+  },
+  {
+    "name": "Wisozk Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Wisoky-Champlin",
+    "degree": 0.0
+  },
+  {
+    "name": "Wisoky Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Wisoky",
+    "degree": 0.0
+  },
+  {
+    "name": "Wisoky",
+    "degree": 0.0
+  },
+  {
+    "name": "Wisoky",
+    "degree": 0.0
+  },
+  {
+    "name": "Wisoky",
+    "degree": 0.0
+  },
+  {
+    "name": "Wintheiser-Koch",
+    "degree": 0.0
+  },
+  {
+    "name": "Windler-Hirthe",
+    "degree": 0.0
+  },
+  {
+    "name": "Windler-Crist",
+    "degree": 0.0
+  },
+  {
+    "name": "Williamson-Kovacek",
+    "degree": 0.0
+  },
+  {
+    "name": "Williamson-Ferry",
+    "degree": 0.0
+  },
+  {
+    "name": "Williamson-Feeney",
+    "degree": 0.0
+  },
+  {
+    "name": "Williamson and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Will-Koss",
+    "degree": 0.0
+  },
+  {
+    "name": "Will",
+    "degree": 0.0
+  },
+  {
+    "name": "Wilkinson and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Wilderman-Von",
+    "degree": 0.0
+  },
+  {
+    "name": "Wilderman-Langosh",
+    "degree": 0.0
+  },
+  {
+    "name": "Wilderman",
+    "degree": 0.0
+  },
+  {
+    "name": "Wiegand-Wyman",
+    "degree": 0.0
+  },
+  {
+    "name": "Wiegand-Gutkowski",
+    "degree": 0.0
+  },
+  {
+    "name": "White-Morissette",
+    "degree": 0.0
+  },
+  {
+    "name": "White",
+    "degree": 0.0
+  },
+  {
+    "name": "White",
+    "degree": 0.0
+  },
+  {
+    "name": "White",
+    "degree": 0.0
+  },
+  {
+    "name": "West Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "West Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Welch and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Weissnat and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Weissnat Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Weimann-Kuhlman",
+    "degree": 0.0
+  },
+  {
+    "name": "Weimann Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Weimann",
+    "degree": 0.0
+  },
+  {
+    "name": "Weber LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Weber",
+    "degree": 0.0
+  },
+  {
+    "name": "Watsica",
+    "degree": 0.0
+  },
+  {
+    "name": "Waters",
+    "degree": 0.0
+  },
+  {
+    "name": "Ward-Armstrong",
+    "degree": 0.0
+  },
+  {
+    "name": "Ward",
+    "degree": 0.0
+  },
+  {
+    "name": "Ward",
+    "degree": 0.0
+  },
+  {
+    "name": "Walsh and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Waelchi Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Waelchi",
+    "degree": 0.0
+  },
+  {
+    "name": "Von-Farrell",
+    "degree": 0.0
+  },
+  {
+    "name": "Von LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Von Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Von",
+    "degree": 0.0
+  },
+  {
+    "name": "Volkman Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Veum Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Vandervort-Hodkiewicz",
+    "degree": 0.0
+  },
+  {
+    "name": "Vandervort",
+    "degree": 0.0
+  },
+  {
+    "name": "Upton-King",
+    "degree": 0.0
+  },
+  {
+    "name": "Upton",
+    "degree": 0.0
+  },
+  {
+    "name": "Ullrich-Robel",
+    "degree": 0.0
+  },
+  {
+    "name": "Ullrich-Jones",
+    "degree": 0.0
+  },
+  {
+    "name": "Ullrich",
+    "degree": 0.0
+  },
+  {
+    "name": "Ullrich",
+    "degree": 0.0
+  },
+  {
+    "name": "Turcotte",
+    "degree": 0.0
+  },
+  {
+    "name": "Treutel and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Treutel Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Tremblay-Wilderman",
+    "degree": 0.0
+  },
+  {
+    "name": "Tremblay",
+    "degree": 0.0
+  },
+  {
+    "name": "Trantow-Moen",
+    "degree": 0.0
+  },
+  {
+    "name": "Trantow",
+    "degree": 0.0
+  },
+  {
+    "name": "Towne-Feest",
+    "degree": 0.0
+  },
+  {
+    "name": "Towne LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Towne Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Thompson-Rice",
+    "degree": 0.0
+  },
+  {
+    "name": "Thiel-Homenick",
+    "degree": 0.0
+  },
+  {
+    "name": "Terry LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Swift Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Swift Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Swaniawski-Hermann",
+    "degree": 0.0
+  },
+  {
+    "name": "Strosin-Walter",
+    "degree": 0.0
+  },
+  {
+    "name": "Strosin-Powlowski",
+    "degree": 0.0
+  },
+  {
+    "name": "Streich and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Stoltenberg-Klocko",
+    "degree": 0.0
+  },
+  {
+    "name": "Stoltenberg-Graham",
+    "degree": 0.0
+  },
+  {
+    "name": "Stoltenberg LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Stiedemann and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Stiedemann Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Stiedemann",
+    "degree": 0.0
+  },
+  {
+    "name": "Stehr-Bogan",
+    "degree": 0.0
+  },
+  {
+    "name": "Stehr Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Stark-Sporer",
+    "degree": 0.0
+  },
+  {
+    "name": "Stark Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Stark",
+    "degree": 0.0
+  },
+  {
+    "name": "Stanton-Hilll",
+    "degree": 0.0
+  },
+  {
+    "name": "Stanton Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Stanton",
+    "degree": 0.0
+  },
+  {
+    "name": "Stamm",
+    "degree": 0.0
+  },
+  {
+    "name": "Sporer-Weissnat",
+    "degree": 0.0
+  },
+  {
+    "name": "Spinka-Heidenreich",
+    "degree": 0.0
+  },
+  {
+    "name": "Spinka-Carroll",
+    "degree": 0.0
+  },
+  {
+    "name": "Spencer LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Spencer",
+    "degree": 0.0
+  },
+  {
+    "name": "Smitham-Jaskolski",
+    "degree": 0.0
+  },
+  {
+    "name": "Smitham and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Smitham",
+    "degree": 0.0
+  },
+  {
+    "name": "Smitham",
+    "degree": 0.0
+  },
+  {
+    "name": "Smith-White",
+    "degree": 0.0
+  },
+  {
+    "name": "Smith Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Smith",
+    "degree": 0.0
+  },
+  {
+    "name": "Skiles and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Skiles",
+    "degree": 0.0
+  },
+  {
+    "name": "Sipes-Bogisich",
+    "degree": 0.0
+  },
+  {
+    "name": "Sipes",
+    "degree": 0.0
+  },
+  {
+    "name": "Simonis and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Shields-Mann",
+    "degree": 0.0
+  },
+  {
+    "name": "Shanahan-Kulas",
+    "degree": 0.0
+  },
+  {
+    "name": "Shanahan",
+    "degree": 0.0
+  },
+  {
+    "name": "Senger and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Senger LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Schuster",
+    "degree": 0.0
+  },
+  {
+    "name": "Schumm-Kautzer",
+    "degree": 0.0
+  },
+  {
+    "name": "Schumm",
+    "degree": 0.0
+  },
+  {
+    "name": "Schultz LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Schultz",
+    "degree": 0.0
+  },
+  {
+    "name": "Schulist-Parisian",
+    "degree": 0.0
+  },
+  {
+    "name": "Schulist-Fahey",
+    "degree": 0.0
+  },
+  {
+    "name": "Schroeder",
+    "degree": 0.0
+  },
+  {
+    "name": "Schroeder",
+    "degree": 0.0
+  },
+  {
+    "name": "Schoen-Schmitt",
+    "degree": 0.0
+  },
+  {
+    "name": "Schoen and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Schoen",
+    "degree": 0.0
+  },
+  {
+    "name": "Schneider",
+    "degree": 0.0
+  },
+  {
+    "name": "Schmitt-DuBuque",
+    "degree": 0.0
+  },
+  {
+    "name": "Schmitt LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Schmitt LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Schmitt",
+    "degree": 0.0
+  },
+  {
+    "name": "Schmitt",
+    "degree": 0.0
+  },
+  {
+    "name": "Schmidt",
+    "degree": 0.0
+  },
+  {
+    "name": "Schinner-Fisher",
+    "degree": 0.0
+  },
+  {
+    "name": "Schinner-Bruen",
+    "degree": 0.0
+  },
+  {
+    "name": "Schimmel and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Schimmel",
+    "degree": 0.0
+  },
+  {
+    "name": "Schimmel",
+    "degree": 0.0
+  },
+  {
+    "name": "Schiller Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Schamberger LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Schamberger",
+    "degree": 0.0
+  },
+  {
+    "name": "Schaefer and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Schaefer",
+    "degree": 0.0
+  },
+  {
+    "name": "Schaefer",
+    "degree": 0.0
+  },
+  {
+    "name": "Schaden",
+    "degree": 0.0
+  },
+  {
+    "name": "Sawayn-Ward",
+    "degree": 0.0
+  },
+  {
+    "name": "Sawayn",
+    "degree": 0.0
+  },
+  {
+    "name": "Satterfield-Romaguera",
+    "degree": 0.0
+  },
+  {
+    "name": "Rutherford",
+    "degree": 0.0
+  },
+  {
+    "name": "Russel LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Russel",
+    "degree": 0.0
+  },
+  {
+    "name": "Runte-Hane",
+    "degree": 0.0
+  },
+  {
+    "name": "Runolfsson and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Runolfsson",
+    "degree": 0.0
+  },
+  {
+    "name": "Runolfsdottir LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Runolfsdottir Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Rowe Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Roob",
+    "degree": 0.0
+  },
+  {
+    "name": "Romaguera",
+    "degree": 0.0
+  },
+  {
+    "name": "Rolfson-Daniel",
+    "degree": 0.0
+  },
+  {
+    "name": "Rolfson LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Rolfson Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Rolfson Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Rogahn",
+    "degree": 0.0
+  },
+  {
+    "name": "Rodriguez-DuBuque",
+    "degree": 0.0
+  },
+  {
+    "name": "Roberts-Trantow",
+    "degree": 0.0
+  },
+  {
+    "name": "Roberts-Metz",
+    "degree": 0.0
+  },
+  {
+    "name": "Robel-Cummings",
+    "degree": 0.0
+  },
+  {
+    "name": "Robel Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Ritchie-Bergnaum",
+    "degree": 0.0
+  },
+  {
+    "name": "Rippin-Feil",
+    "degree": 0.0
+  },
+  {
+    "name": "Rippin-Bins",
+    "degree": 0.0
+  },
+  {
+    "name": "Rempel-Christiansen",
+    "degree": 0.0
+  },
+  {
+    "name": "Rempel",
+    "degree": 0.0
+  },
+  {
+    "name": "Reinger-Rolfson",
+    "degree": 0.0
+  },
+  {
+    "name": "Reinger LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Reichert-Wunsch",
+    "degree": 0.0
+  },
+  {
+    "name": "Reichert-Marks",
+    "degree": 0.0
+  },
+  {
+    "name": "Reichert",
+    "degree": 0.0
+  },
+  {
+    "name": "Raynor LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Raynor Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Ratke",
+    "degree": 0.0
+  },
+  {
+    "name": "Rath Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Quitzon-Hilpert",
+    "degree": 0.0
+  },
+  {
+    "name": "Quitzon Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Quigley",
+    "degree": 0.0
+  },
+  {
+    "name": "Prosacco-Pfannerstill",
+    "degree": 0.0
+  },
+  {
+    "name": "Powlowski Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Powlowski",
+    "degree": 0.0
+  },
+  {
+    "name": "Pollich-Halvorson",
+    "degree": 0.0
+  },
+  {
+    "name": "Pfeffer-Zulauf",
+    "degree": 0.0
+  },
+  {
+    "name": "Pfannerstill and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Pfannerstill",
+    "degree": 0.0
+  },
+  {
+    "name": "Parker-Parisian",
+    "degree": 0.0
+  },
+  {
+    "name": "Parisian",
+    "degree": 0.0
+  },
+  {
+    "name": "Padberg-Zieme",
+    "degree": 0.0
+  },
+  {
+    "name": "Ortiz",
+    "degree": 0.0
+  },
+  {
+    "name": "Orn LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Orn",
+    "degree": 0.0
+  },
+  {
+    "name": "Ondricka-Treutel",
+    "degree": 0.0
+  },
+  {
+    "name": "Ondricka Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Ondricka",
+    "degree": 0.0
+  },
+  {
+    "name": "Ondricka",
+    "degree": 0.0
+  },
+  {
+    "name": "Olson LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Okuneva Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Okuneva",
+    "degree": 0.0
+  },
+  {
+    "name": "Oberbrunner LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "O'Reilly-Stanton",
+    "degree": 0.0
+  },
+  {
+    "name": "O'Reilly and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "O'Keefe Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "O'Connell",
+    "degree": 0.0
+  },
+  {
+    "name": "Nolan",
+    "degree": 0.0
+  },
+  {
+    "name": "Nolan",
+    "degree": 0.0
+  },
+  {
+    "name": "Nitzsche-Kessler",
+    "degree": 0.0
+  },
+  {
+    "name": "Nitzsche",
+    "degree": 0.0
+  },
+  {
+    "name": "Nienow and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Nienow",
+    "degree": 0.0
+  },
+  {
+    "name": "Murray-Watsica",
+    "degree": 0.0
+  },
+  {
+    "name": "Murphy-Stracke",
+    "degree": 0.0
+  },
+  {
+    "name": "Muller and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Mueller and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Mraz-Bernier",
+    "degree": 0.0
+  },
+  {
+    "name": "Mosciski-Ortiz",
+    "degree": 0.0
+  },
+  {
+    "name": "Mosciski LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Morissette Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Morissette Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Morissette",
+    "degree": 0.0
+  },
+  {
+    "name": "Mohr",
+    "degree": 0.0
+  },
+  {
+    "name": "Moen Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Moen Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Mitchell-Fahey",
+    "degree": 0.0
+  },
+  {
+    "name": "Mitchell",
+    "degree": 0.0
+  },
+  {
+    "name": "Mitchell",
+    "degree": 0.0
+  },
+  {
+    "name": "Mills-Jacobson",
+    "degree": 0.0
+  },
+  {
+    "name": "Miller",
+    "degree": 0.0
+  },
+  {
+    "name": "Metz-Kihn",
+    "degree": 0.0
+  },
+  {
+    "name": "Mertz LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Mertz",
+    "degree": 0.0
+  },
+  {
+    "name": "Mertz",
+    "degree": 0.0
+  },
+  {
+    "name": "McLaughlin-Kovacek",
+    "degree": 0.0
+  },
+  {
+    "name": "McLaughlin and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "McLaughlin",
+    "degree": 0.0
+  },
+  {
+    "name": "McKenzie-Murazik",
+    "degree": 0.0
+  },
+  {
+    "name": "McDermott-Steuber",
+    "degree": 0.0
+  },
+  {
+    "name": "McDermott",
+    "degree": 0.0
+  },
+  {
+    "name": "McDermott",
+    "degree": 0.0
+  },
+  {
+    "name": "McDermott",
+    "degree": 0.0
+  },
+  {
+    "name": "McCullough-Ferry",
+    "degree": 0.0
+  },
+  {
+    "name": "Mayert-Kohler",
+    "degree": 0.0
+  },
+  {
+    "name": "Mayert and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Mayert Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Marvin-Marquardt",
+    "degree": 0.0
+  },
+  {
+    "name": "Marquardt-Grady",
+    "degree": 0.0
+  },
+  {
+    "name": "Marquardt",
+    "degree": 0.0
+  },
+  {
+    "name": "Mante and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Mann",
+    "degree": 0.0
+  },
+  {
+    "name": "Mann",
+    "degree": 0.0
+  },
+  {
+    "name": "MacGyver-Rath",
+    "degree": 0.0
+  },
+  {
+    "name": "MacGyver-Boehm",
+    "degree": 0.0
+  },
+  {
+    "name": "Lynch Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Lynch Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Luettgen Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Lubowitz LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Lowe Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Lowe",
+    "degree": 0.0
+  },
+  {
+    "name": "Lockman-Denesik",
+    "degree": 0.0
+  },
+  {
+    "name": "Lockman Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Lockman Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Little-Stoltenberg",
+    "degree": 0.0
+  },
+  {
+    "name": "Little-Cummings",
+    "degree": 0.0
+  },
+  {
+    "name": "Little LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Littel-Bode",
+    "degree": 0.0
+  },
+  {
+    "name": "Littel and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Littel",
+    "degree": 0.0
+  },
+  {
+    "name": "Lindgren-Beer",
+    "degree": 0.0
+  },
+  {
+    "name": "Lind-VonRueden",
+    "degree": 0.0
+  },
+  {
+    "name": "Leuschke-Lind",
+    "degree": 0.0
+  },
+  {
+    "name": "Lehner",
+    "degree": 0.0
+  },
+  {
+    "name": "Legros",
+    "degree": 0.0
+  },
+  {
+    "name": "Leannon",
+    "degree": 0.0
+  },
+  {
+    "name": "Larson-Crooks",
+    "degree": 0.0
+  },
+  {
+    "name": "Larson Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Larkin-Streich",
+    "degree": 0.0
+  },
+  {
+    "name": "Larkin LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Larkin",
+    "degree": 0.0
+  },
+  {
+    "name": "Larkin",
+    "degree": 0.0
+  },
+  {
+    "name": "Langworth",
+    "degree": 0.0
+  },
+  {
+    "name": "Langosh Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Lang Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Lang Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Kuvalis Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Kulas-Hermiston",
+    "degree": 0.0
+  },
+  {
+    "name": "Kulas Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Kulas",
+    "degree": 0.0
+  },
+  {
+    "name": "Kuhic LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Kub LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Kub Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Kshlerin and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Kreiger-Wolf",
+    "degree": 0.0
+  },
+  {
+    "name": "Kreiger-Rutherford",
+    "degree": 0.0
+  },
+  {
+    "name": "Kreiger-Paucek",
+    "degree": 0.0
+  },
+  {
+    "name": "Kreiger-Cronin",
+    "degree": 0.0
+  },
+  {
+    "name": "Kreiger Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Kreiger",
+    "degree": 0.0
+  },
+  {
+    "name": "Krajcik Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Krajcik",
+    "degree": 0.0
+  },
+  {
+    "name": "Kozey-Zieme",
+    "degree": 0.0
+  },
+  {
+    "name": "Kozey",
+    "degree": 0.0
+  },
+  {
+    "name": "Kozey",
+    "degree": 0.0
+  },
+  {
+    "name": "Kovacek Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Kovacek Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Kovacek Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Kovacek",
+    "degree": 0.0
+  },
+  {
+    "name": "Koss Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Koss",
+    "degree": 0.0
+  },
+  {
+    "name": "Koss",
+    "degree": 0.0
+  },
+  {
+    "name": "Konopelski-Doyle",
+    "degree": 0.0
+  },
+  {
+    "name": "Kohler-Lehner",
+    "degree": 0.0
+  },
+  {
+    "name": "Kohler-Durgan",
+    "degree": 0.0
+  },
+  {
+    "name": "Kohler",
+    "degree": 0.0
+  },
+  {
+    "name": "Koelpin-Lehner",
+    "degree": 0.0
+  },
+  {
+    "name": "Koelpin",
+    "degree": 0.0
+  },
+  {
+    "name": "Koch-Kutch",
+    "degree": 0.0
+  },
+  {
+    "name": "Koch",
+    "degree": 0.0
+  },
+  {
+    "name": "Klocko Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Klocko",
+    "degree": 0.0
+  },
+  {
+    "name": "Klocko",
+    "degree": 0.0
+  },
+  {
+    "name": "Klein-Torphy",
+    "degree": 0.0
+  },
+  {
+    "name": "Klein-Cassin",
+    "degree": 0.0
+  },
+  {
+    "name": "Klein Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Kirlin-Legros",
+    "degree": 0.0
+  },
+  {
+    "name": "Kirlin Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "King-Fisher",
+    "degree": 0.0
+  },
+  {
+    "name": "Kilback-Lowe",
+    "degree": 0.0
+  },
+  {
+    "name": "Kihn Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Kiehn and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Kiehn Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Kessler",
+    "degree": 0.0
+  },
+  {
+    "name": "Kertzmann LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Kertzmann Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Kertzmann",
+    "degree": 0.0
+  },
+  {
+    "name": "Kemmer-Berge",
+    "degree": 0.0
+  },
+  {
+    "name": "Kemmer and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Kemmer Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Kemmer",
+    "degree": 0.0
+  },
+  {
+    "name": "Keebler-Feest",
+    "degree": 0.0
+  },
+  {
+    "name": "Keebler Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Keebler",
+    "degree": 0.0
+  },
+  {
+    "name": "Kautzer and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Kautzer Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Kassulke and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Kassulke",
+    "degree": 0.0
+  },
+  {
+    "name": "Kassulke",
+    "degree": 0.0
+  },
+  {
+    "name": "Jones Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Johns LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Johns Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Jerde",
+    "degree": 0.0
+  },
+  {
+    "name": "Jenkins-Lang",
+    "degree": 0.0
+  },
+  {
+    "name": "Jenkins and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Jenkins",
+    "degree": 0.0
+  },
+  {
+    "name": "Jast-Oberbrunner",
+    "degree": 0.0
+  },
+  {
+    "name": "Jast-Dietrich",
+    "degree": 0.0
+  },
+  {
+    "name": "Jast Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Jast Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Jaskolski-Monahan",
+    "degree": 0.0
+  },
+  {
+    "name": "Jakubowski-Bruen",
+    "degree": 0.0
+  },
+  {
+    "name": "Jacobson-Koss",
+    "degree": 0.0
+  },
+  {
+    "name": "Jacobson LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Jacobson",
+    "degree": 0.0
+  },
+  {
+    "name": "Jacobs-Murray",
+    "degree": 0.0
+  },
+  {
+    "name": "Jacobs LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Jacobs",
+    "degree": 0.0
+  },
+  {
+    "name": "Jacobs",
+    "degree": 0.0
+  },
+  {
+    "name": "Jacobi Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Hyatt and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Hyatt",
+    "degree": 0.0
+  },
+  {
+    "name": "Huels Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Huel and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Huel",
+    "degree": 0.0
+  },
+  {
+    "name": "Hudson-Schoen",
+    "degree": 0.0
+  },
+  {
+    "name": "Hudson Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Howe LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Hoppe-Lesch",
+    "degree": 0.0
+  },
+  {
+    "name": "Hoppe Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Homenick-Schaefer",
+    "degree": 0.0
+  },
+  {
+    "name": "Homenick LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Hoeger-Schumm",
+    "degree": 0.0
+  },
+  {
+    "name": "Hoeger-Lebsack",
+    "degree": 0.0
+  },
+  {
+    "name": "Hoeger Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Hintz-Durgan",
+    "degree": 0.0
+  },
+  {
+    "name": "Hintz",
+    "degree": 0.0
+  },
+  {
+    "name": "Hilpert Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Hilpert Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Hills-Dooley",
+    "degree": 0.0
+  },
+  {
+    "name": "Hills and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Hilll LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Hilll LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Hessel",
+    "degree": 0.0
+  },
+  {
+    "name": "Herzog",
+    "degree": 0.0
+  },
+  {
+    "name": "Hermiston LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Hermann LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Hermann",
+    "degree": 0.0
+  },
+  {
+    "name": "Herman-Bins",
+    "degree": 0.0
+  },
+  {
+    "name": "Herman-Batz",
+    "degree": 0.0
+  },
+  {
+    "name": "Herman and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Heller-Russel",
+    "degree": 0.0
+  },
+  {
+    "name": "Heidenreich Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Heidenreich",
+    "degree": 0.0
+  },
+  {
+    "name": "Heaney-Jacobs",
+    "degree": 0.0
+  },
+  {
+    "name": "Hayes",
+    "degree": 0.0
+  },
+  {
+    "name": "Harvey",
+    "degree": 0.0
+  },
+  {
+    "name": "Hartmann-Bernhard",
+    "degree": 0.0
+  },
+  {
+    "name": "Harris",
+    "degree": 0.0
+  },
+  {
+    "name": "Harber",
+    "degree": 0.0
+  },
+  {
+    "name": "Hansen-Pouros",
+    "degree": 0.0
+  },
+  {
+    "name": "Hansen Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Hansen",
+    "degree": 0.0
+  },
+  {
+    "name": "Hane",
+    "degree": 0.0
+  },
+  {
+    "name": "Hand",
+    "degree": 0.0
+  },
+  {
+    "name": "Hammes-Koelpin",
+    "degree": 0.0
+  },
+  {
+    "name": "Hammes-Braun",
+    "degree": 0.0
+  },
+  {
+    "name": "Hammes and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Hamill LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Hamill LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Hamill LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Hamill",
+    "degree": 0.0
+  },
+  {
+    "name": "Halvorson-Schimmel",
+    "degree": 0.0
+  },
+  {
+    "name": "Halvorson LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Halvorson",
+    "degree": 0.0
+  },
+  {
+    "name": "Haley-Prosacco",
+    "degree": 0.0
+  },
+  {
+    "name": "Haley-Hagenes",
+    "degree": 0.0
+  },
+  {
+    "name": "Hahn Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Hagenes-Mertz",
+    "degree": 0.0
+  },
+  {
+    "name": "Hagenes-Beatty",
+    "degree": 0.0
+  },
+  {
+    "name": "Hackett",
+    "degree": 0.0
+  },
+  {
+    "name": "Haag-Doyle",
+    "degree": 0.0
+  },
+  {
+    "name": "Gutkowski-Towne",
+    "degree": 0.0
+  },
+  {
+    "name": "Gusikowski",
+    "degree": 0.0
+  },
+  {
+    "name": "Gusikowski",
+    "degree": 0.0
+  },
+  {
+    "name": "Gusikowski",
+    "degree": 0.0
+  },
+  {
+    "name": "Gulgowski",
+    "degree": 0.0
+  },
+  {
+    "name": "Greenholt-Hyatt",
+    "degree": 0.0
+  },
+  {
+    "name": "Greenholt LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Green",
+    "degree": 0.0
+  },
+  {
+    "name": "Grant LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Grant Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Grant",
+    "degree": 0.0
+  },
+  {
+    "name": "Goyette-Goyette",
+    "degree": 0.0
+  },
+  {
+    "name": "Goyette",
+    "degree": 0.0
+  },
+  {
+    "name": "Goyette",
+    "degree": 0.0
+  },
+  {
+    "name": "Gottlieb",
+    "degree": 0.0
+  },
+  {
+    "name": "Gorczany-Mills",
+    "degree": 0.0
+  },
+  {
+    "name": "Gorczany LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Gorczany LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Gorczany Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Gorczany",
+    "degree": 0.0
+  },
+  {
+    "name": "Glover",
+    "degree": 0.0
+  },
+  {
+    "name": "Glover",
+    "degree": 0.0
+  },
+  {
+    "name": "Gleason-Krajcik",
+    "degree": 0.0
+  },
+  {
+    "name": "Gislason and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Gislason",
+    "degree": 0.0
+  },
+  {
+    "name": "Gibson and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Gibson Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Gibson",
+    "degree": 0.0
+  },
+  {
+    "name": "Gerlach Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Gerhold-Prosacco",
+    "degree": 0.0
+  },
+  {
+    "name": "Gerhold-Morissette",
+    "degree": 0.0
+  },
+  {
+    "name": "Gaylord",
+    "degree": 0.0
+  },
+  {
+    "name": "Funk LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Funk Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Friesen-Jacobson",
+    "degree": 0.0
+  },
+  {
+    "name": "Friesen Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Franecki",
+    "degree": 0.0
+  },
+  {
+    "name": "Flatley and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Fisher-Gulgowski",
+    "degree": 0.0
+  },
+  {
+    "name": "Fisher Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Fisher",
+    "degree": 0.0
+  },
+  {
+    "name": "Feil Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Feest-Wilderman",
+    "degree": 0.0
+  },
+  {
+    "name": "Feest and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Fay-Hermann",
+    "degree": 0.0
+  },
+  {
+    "name": "Fahey Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Fahey",
+    "degree": 0.0
+  },
+  {
+    "name": "Fadel and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Fadel Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Erdman and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Emmerich-Willms",
+    "degree": 0.0
+  },
+  {
+    "name": "Emmerich and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Emmerich",
+    "degree": 0.0
+  },
+  {
+    "name": "Emard-Beer",
+    "degree": 0.0
+  },
+  {
+    "name": "Emard and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Emard LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Effertz-Nienow",
+    "degree": 0.0
+  },
+  {
+    "name": "Effertz-Bergstrom",
+    "degree": 0.0
+  },
+  {
+    "name": "Effertz",
+    "degree": 0.0
+  },
+  {
+    "name": "Ebert-Feeney",
+    "degree": 0.0
+  },
+  {
+    "name": "Ebert and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Ebert LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Durgan-Padberg",
+    "degree": 0.0
+  },
+  {
+    "name": "Durgan Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "DuBuque",
+    "degree": 0.0
+  },
+  {
+    "name": "Doyle-Sauer",
+    "degree": 0.0
+  },
+  {
+    "name": "Dooley",
+    "degree": 0.0
+  },
+  {
+    "name": "Donnelly",
+    "degree": 0.0
+  },
+  {
+    "name": "Dickinson-Volkman",
+    "degree": 0.0
+  },
+  {
+    "name": "Dickinson-Treutel",
+    "degree": 0.0
+  },
+  {
+    "name": "Dickinson",
+    "degree": 0.0
+  },
+  {
+    "name": "Dickinson",
+    "degree": 0.0
+  },
+  {
+    "name": "Dicki-Harris",
+    "degree": 0.0
+  },
+  {
+    "name": "Dickens",
+    "degree": 0.0
+  },
+  {
+    "name": "Dibbert-Runolfsson",
+    "degree": 0.0
+  },
+  {
+    "name": "Dibbert-Bernier",
+    "degree": 0.0
+  },
+  {
+    "name": "Dibbert",
+    "degree": 0.0
+  },
+  {
+    "name": "Denesik-Haley",
+    "degree": 0.0
+  },
+  {
+    "name": "Deckow",
+    "degree": 0.0
+  },
+  {
+    "name": "Deckow",
+    "degree": 0.0
+  },
+  {
+    "name": "Davis LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Davis",
+    "degree": 0.0
+  },
+  {
+    "name": "Daniel Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Dach-Hane",
+    "degree": 0.0
+  },
+  {
+    "name": "Dach",
+    "degree": 0.0
+  },
+  {
+    "name": "Dach",
+    "degree": 0.0
+  },
+  {
+    "name": "D'Amore Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Cruickshank Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Cruickshank Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Cruickshank",
+    "degree": 0.0
+  },
+  {
+    "name": "Crooks-Schoen",
+    "degree": 0.0
+  },
+  {
+    "name": "Crooks-Schamberger",
+    "degree": 0.0
+  },
+  {
+    "name": "Crooks-Mosciski",
+    "degree": 0.0
+  },
+  {
+    "name": "Cronin-Breitenberg",
+    "degree": 0.0
+  },
+  {
+    "name": "Cronin Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Cronin",
+    "degree": 0.0
+  },
+  {
+    "name": "Cronin",
+    "degree": 0.0
+  },
+  {
+    "name": "Crona Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Crona",
+    "degree": 0.0
+  },
+  {
+    "name": "Crona",
+    "degree": 0.0
+  },
+  {
+    "name": "Crist-White",
+    "degree": 0.0
+  },
+  {
+    "name": "Crist",
+    "degree": 0.0
+  },
+  {
+    "name": "Cremin-Tillman",
+    "degree": 0.0
+  },
+  {
+    "name": "Corwin-Effertz",
+    "degree": 0.0
+  },
+  {
+    "name": "Corwin",
+    "degree": 0.0
+  },
+  {
+    "name": "Cormier-Lowe",
+    "degree": 0.0
+  },
+  {
+    "name": "Corkery-Heller",
+    "degree": 0.0
+  },
+  {
+    "name": "Corkery and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Considine-Wyman",
+    "degree": 0.0
+  },
+  {
+    "name": "Considine-Feest",
+    "degree": 0.0
+  },
+  {
+    "name": "Considine Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Conroy-Gulgowski",
+    "degree": 0.0
+  },
+  {
+    "name": "Conroy Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Conroy",
+    "degree": 0.0
+  },
+  {
+    "name": "Connelly-Dach",
+    "degree": 0.0
+  },
+  {
+    "name": "Conn-Zemlak",
+    "degree": 0.0
+  },
+  {
+    "name": "Collier",
+    "degree": 0.0
+  },
+  {
+    "name": "Collier",
+    "degree": 0.0
+  },
+  {
+    "name": "Cole Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Cole",
+    "degree": 0.0
+  },
+  {
+    "name": "Champlin-Mayert",
+    "degree": 0.0
+  },
+  {
+    "name": "Champlin-Friesen",
+    "degree": 0.0
+  },
+  {
+    "name": "Cassin-Simonis",
+    "degree": 0.0
+  },
+  {
+    "name": "Casper Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Cartwright and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Carroll",
+    "degree": 0.0
+  },
+  {
+    "name": "Carroll",
+    "degree": 0.0
+  },
+  {
+    "name": "Bruen-Douglas",
+    "degree": 0.0
+  },
+  {
+    "name": "Bruen",
+    "degree": 0.0
+  },
+  {
+    "name": "Brown Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Brekke LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Breitenberg",
+    "degree": 0.0
+  },
+  {
+    "name": "Braun Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Brakus Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Brakus",
+    "degree": 0.0
+  },
+  {
+    "name": "Bradtke Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Bradtke",
+    "degree": 0.0
+  },
+  {
+    "name": "Boyle Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Boyle Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Botsford-King",
+    "degree": 0.0
+  },
+  {
+    "name": "Botsford-Funk",
+    "degree": 0.0
+  },
+  {
+    "name": "Botsford Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Borer-Lindgren",
+    "degree": 0.0
+  },
+  {
+    "name": "Borer",
+    "degree": 0.0
+  },
+  {
+    "name": "Borer",
+    "degree": 0.0
+  },
+  {
+    "name": "Bogisich-Miller",
+    "degree": 0.0
+  },
+  {
+    "name": "Bogisich-Brekke",
+    "degree": 0.0
+  },
+  {
+    "name": "Bogisich and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Bogisich LLC",
+    "degree": 0.0
+  },
+  {
+    "name": "Bogisich",
+    "degree": 0.0
+  },
+  {
+    "name": "Bogan-Cronin",
+    "degree": 0.0
+  },
+  {
+    "name": "Bogan Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Block Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Blanda-West",
+    "degree": 0.0
+  },
+  {
+    "name": "Bernier and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Bernier Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Bernier",
+    "degree": 0.0
+  },
+  {
+    "name": "Bernhard-Christiansen",
+    "degree": 0.0
+  },
+  {
+    "name": "Bernhard-Anderson",
+    "degree": 0.0
+  },
+  {
+    "name": "Bergstrom-Spencer",
+    "degree": 0.0
+  },
+  {
+    "name": "Bergnaum Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Berge-O'Kon",
+    "degree": 0.0
+  },
+  {
+    "name": "Berge and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Berge",
+    "degree": 0.0
+  },
+  {
+    "name": "Beer-Hammes",
+    "degree": 0.0
+  },
+  {
+    "name": "Beer Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Beer",
+    "degree": 0.0
+  },
+  {
+    "name": "Bednar and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Bechtelar and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Beatty-Shanahan",
+    "degree": 0.0
+  },
+  {
+    "name": "Beatty-Mante",
+    "degree": 0.0
+  },
+  {
+    "name": "Beatty and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Beahan Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Bayer-Boehm",
+    "degree": 0.0
+  },
+  {
+    "name": "Bayer Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Bayer",
+    "degree": 0.0
+  },
+  {
+    "name": "Baumbach",
+    "degree": 0.0
+  },
+  {
+    "name": "Bauch-Howe",
+    "degree": 0.0
+  },
+  {
+    "name": "Bauch-Gutmann",
+    "degree": 0.0
+  },
+  {
+    "name": "Bauch Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Batz-Harvey",
+    "degree": 0.0
+  },
+  {
+    "name": "Bashirian-Doyle",
+    "degree": 0.0
+  },
+  {
+    "name": "Bartell-Dietrich",
+    "degree": 0.0
+  },
+  {
+    "name": "Bartell",
+    "degree": 0.0
+  },
+  {
+    "name": "Balistreri",
+    "degree": 0.0
+  },
+  {
+    "name": "Bailey Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Bahringer-Gusikowski",
+    "degree": 0.0
+  },
+  {
+    "name": "Bahringer",
+    "degree": 0.0
+  },
+  {
+    "name": "Aufderhar and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Aufderhar Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Armstrong-Kris",
+    "degree": 0.0
+  },
+  {
+    "name": "Armstrong-Borer",
+    "degree": 0.0
+  },
+  {
+    "name": "Armstrong and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Ankunding-Davis",
+    "degree": 0.0
+  },
+  {
+    "name": "Ankunding-Aufderhar",
+    "degree": 0.0
+  },
+  {
+    "name": "Ankunding Inc",
+    "degree": 0.0
+  },
+  {
+    "name": "Ankunding",
+    "degree": 0.0
+  },
+  {
+    "name": "Anderson-Bruen",
+    "degree": 0.0
+  },
+  {
+    "name": "Anderson-Ankunding",
+    "degree": 0.0
+  },
+  {
+    "name": "Anderson and Sons",
+    "degree": 0.0
+  },
+  {
+    "name": "Altenwerth-Rowe",
+    "degree": 0.0
+  },
+  {
+    "name": "Adams Group",
+    "degree": 0.0
+  },
+  {
+    "name": "Abshire",
+    "degree": 0.0
+  }
+]
