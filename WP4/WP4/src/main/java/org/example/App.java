@@ -55,11 +55,11 @@ public class App {
             CSVWriter nodesCsvWriter = new CSVWriter(nodes);
             CSVWriter edgesCsvWriter = new CSVWriter(edges);
 
-
+            nodesCsvWriter.writeNext(new String[]{"id;name");
             for (Document teamResult : teamResults) {
                 nodesCsvWriter.writeNext(new String[]{teamResult.get("id") + ";" + teamResult.get("name")});
             }
-
+            nodesCsvWriter.writeNext(new String[]{"team_id1;team_id2");
             for (Document result : results) {
                 edgesCsvWriter.writeNext(new String[]{result.get("team_1") + ";" + result.get("team_2")});
             }
@@ -67,10 +67,10 @@ public class App {
 
             edgesCsvWriter.close();
             nodesCsvWriter.close();
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+        } catch(IOException e){
+                throw new RuntimeException(e);
+            }
 
     }
 
-}
+        }
