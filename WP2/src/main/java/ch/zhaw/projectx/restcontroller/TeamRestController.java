@@ -32,7 +32,7 @@ public class TeamRestController {
         }
     }
 
-    @RequestMapping(value = "api/team/{name}", method = RequestMethod.GET)
+    @RequestMapping(value = "api/team/byName/{name}", method = RequestMethod.GET)
     public ResponseEntity<List<Team>> getTeamByName(@PathVariable("name") String name) {
         List<Team> result = this.repository.findTeamByName(name);
 
@@ -43,7 +43,7 @@ public class TeamRestController {
         }
     }
 
-    @RequestMapping(value = "api/team/{id}", method = RequestMethod.GET)
+    @RequestMapping(value = "api/team/byId/{id}", method = RequestMethod.GET)
     public ResponseEntity<Optional<Team>> getAggregationById(@PathVariable("id") Long teamId) {
         Optional<Team> result = this.repository.findById(teamId);
         if (result.isPresent()) {

@@ -32,7 +32,7 @@ public class PerformanceRestController {
         }
     }
 
-    @RequestMapping(value = "api/performance/{valueId}", method = RequestMethod.GET)
+    @RequestMapping(value = "api/performance/ById/{valueId}", method = RequestMethod.GET)
     public ResponseEntity<Optional<Performance>> getAggregationById(@PathVariable("valueId") Long valueId) {
         Optional<Performance> result = this.repository.findById(valueId);
         if (result.isPresent()) {
@@ -42,7 +42,7 @@ public class PerformanceRestController {
         }
     }
 
-    @RequestMapping(value = "api/performance/{name}", method = RequestMethod.GET)
+    @RequestMapping(value = "api/performance/ByName/{name}", method = RequestMethod.GET)
     public ResponseEntity<List<Performance>> getPerformanceByValue(@PathVariable("name") String name) {
         List<Performance> result = this.repository.findPerformanceByName(name);
 

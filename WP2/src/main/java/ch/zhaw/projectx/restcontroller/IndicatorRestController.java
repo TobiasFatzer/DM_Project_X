@@ -32,7 +32,7 @@ public class IndicatorRestController {
         }
     }
 
-    @RequestMapping(value = "api/indicators/{targetValueId}", method = RequestMethod.GET)
+    @RequestMapping(value = "api/indicators/ById/{targetValueId}", method = RequestMethod.GET)
     public ResponseEntity<Optional<Indicator>> getAggregationById(@PathVariable("targetValueId") Long targetValueId) {
         Optional<Indicator> result = this.repository.findById(targetValueId);
 
@@ -43,7 +43,7 @@ public class IndicatorRestController {
         }
     }
 
-    @RequestMapping(value = "api/indicators/{targetValue}", method = RequestMethod.GET)
+    @RequestMapping(value = "api/indicators/ByValue/{targetValue}", method = RequestMethod.GET)
     public ResponseEntity<List<Indicator>> getIndicatorByName(@PathVariable("targetValue") int targetValue) {
         List<Indicator> result = this.repository.findIndicatorByIndicatorTargetValue(targetValue);
 

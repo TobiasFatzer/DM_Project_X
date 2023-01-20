@@ -34,7 +34,7 @@ public class AssessmentRestController {
 
     }
 
-    @RequestMapping(value = "api/assessment/{reportingDate}", method = RequestMethod.GET)
+    @RequestMapping(value = "api/assessment/ByDate/{reportingDate}", method = RequestMethod.GET)
     public ResponseEntity<List<Assessment>> getAssessmentByReportingDate(
             @PathVariable("reportingDate") Date reportingDate) {
         List<Assessment> result = this.repository.findAssessmentByReportingDate(reportingDate);
@@ -46,7 +46,7 @@ public class AssessmentRestController {
         }
     }
 
-    @RequestMapping(value = "api/assessment/{reportingDateId}", method = RequestMethod.GET)
+    @RequestMapping(value = "api/assessment/ById/{reportingDateId}", method = RequestMethod.GET)
     public ResponseEntity<Optional<Assessment>> getAggregationById(@PathVariable("reportingDateId") Long reportingDateId) {
         Optional<Assessment> result = this.repository.findById(reportingDateId);
         if (result.isPresent()) {

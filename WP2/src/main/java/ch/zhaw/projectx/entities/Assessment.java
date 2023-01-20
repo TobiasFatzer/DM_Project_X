@@ -16,6 +16,15 @@ public class Assessment {
 
     @ManyToOne
     private Team team;
+
+    public Performance getPerformance() {
+        return performance;
+    }
+
+    public void setPerformance(Performance performance) {
+        this.performance = performance;
+    }
+
     @ManyToOne
     private Performance performance;
 

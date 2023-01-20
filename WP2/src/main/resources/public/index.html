@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+<head>
+    <title>Infections</title>
+    <link rel="stylesheet" type="text/css"
+          href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"/>
+    <script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+    <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script
+            src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script>
+        function go() {
+            syso("> Running ...");
+
+            ID = document.getElementById("inputID").value;
+
+            var query = "team";
+            if (ID) {
+                query = "team/byId/" + ID;
+            }
+
+            $.get('http://localhost:8080/api/' + query, function (response) {
+                console.log(response)
+                document.getElementById("teamTable").innerHTML = "";
+                if (!Array.isArray(response)) {
+                    displayTeam(response)
+                } else {
+                    displayTeams(response);
+                }
+            });
+
+            setTimeout(function () {
+                syso("> Done");
+            }, 1000);
+
+        }
+
+        function displayTeams(teams) {
+            teams.forEach(displayTeam);
+        }
+
+        function displayTeam(team) {
+            console.log(team)
+            var tr = document.createElement("tr");
+            var ltd = document.createElement("td");
+            var rtd = document.createElement("td");
+            var mtd = document.createElement("td");
+            ltd.innerHTML = team.id;
+            rtd.innerHTML = team.name;
+            mtd.innerHTML = team.size;
+            tr.appendChild(ltd);
+            tr.appendChild(rtd);
+            tr.appendChild(mtd);
+            document.getElementById("teamTable").appendChild(tr);
+        }
+
+        function syso(message) {
+            document.getElementById("console").innerHTML = "";
+            var result = document.createElement("p");
+            result.innerHTML = message;
+            document.getElementById("console").appendChild(result);
+        }
+    </script>
+</head>
+<body>
+<div class="container">
+    <h1>Display all Team Names</h1>
+    <a href="/WP5.html">This is some old REF</a>
+    <form>
+        <div class="form-group">
+            <label for="inputLocation">ID</label> <input type="number"
+                                                         class="form-control" id="inputID"
+                                                         aria-describedby="inputHelp"
+                                                         placeholder="Enter ID OR Leave Empty"><small
+                id="inputHelp" class="form-text text-muted">Please enter a
+            ID (e.g. 1-150) or leave empty to display all Teams</small>
+        </div>
+        <button type="button" class="btn btn-primary" onclick="go()">Go
+            :-)
+        </button>
+    </form>
+
+    <p>&nbsp;</p>
+    <table class="table table-striped">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Team Name</th>
+            <th>Size</th>
+        </tr>
+        </thead>
+        <tbody id="teamTable"></tbody>
+    </table>
+
+    <p>&nbsp;</p>
+    <div id="console"></div>
+</div>
+</body>
+</html>

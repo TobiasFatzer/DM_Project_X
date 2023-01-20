@@ -32,7 +32,7 @@ public class AggregationRestController {
         }
     }
 
-    @RequestMapping(value = "api/aggregations/{metric}", method = RequestMethod.GET)
+    @RequestMapping(value = "api/aggregations/ByMetric/{metric}", method = RequestMethod.GET)
     public ResponseEntity<List<Aggregation>> getAggregationByName(@PathVariable("metric") Metric metric) {
         List<Aggregation> result = this.repository.findAggregationByMetric(metric);
 
@@ -43,7 +43,7 @@ public class AggregationRestController {
         }
     }
 
-    @RequestMapping(value = "api/aggregations/{metricId}", method = RequestMethod.GET)
+    @RequestMapping(value = "api/aggregations/ById/{metricId}", method = RequestMethod.GET)
     public ResponseEntity<Optional<Aggregation>> getAggregationById(@PathVariable("metricId") Long metricId) {
         Optional<Aggregation> result = this.repository.findById(metricId);
 
